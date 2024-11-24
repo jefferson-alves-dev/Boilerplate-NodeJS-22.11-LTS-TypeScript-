@@ -27,11 +27,9 @@ Before you begin, make sure you have the following installed:
    git clone git@github.com:jefferson-alves-dev/Boilerplate-NodeJS-22.11-LTS-TypeScript-.git
    ```
 
-   ````bash
-   cd Boilerplate-NodeJS-22.11-LTS-TypeScript
+   ```bash
+   cd Boilerplate-NodeJS-22.11-LTS-TypeScript-
    ```
-
-   ````
 
 2. **Install dependencies**:
 
