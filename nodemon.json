@@ -1,0 +1,9 @@
+{
+  "watch": ["src/**/*.ts"],
+  "ext": "*",
+  "ignore": ["src/**/*.spec.ts", "dist"],
+  "exec": "rimraf dist && tsc -p tsconfig.json && node ./dist/index.js",
+  "env": {
+    "NODE_ENV": "development"
+  }
+}
