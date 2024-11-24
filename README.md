@@ -49,9 +49,9 @@ Compiles TypeScript code to JavaScript and runs it in development mode with auto
 
 ### `npm run build:prod`
 
-Compiles TypeScript code to JavaScript and runs it in production mode with automatic reloading using `nodemon`.
+Compiles TypeScript code to JavaScript and runs it in production mode.
 
-## Desenvolvimento
+## Development
 
 During development, use the `exec:dev` script to run the bot directly in the TypeScript environment without needing to compile.
 If you prefer automatic reloading, use `build:dev`.
